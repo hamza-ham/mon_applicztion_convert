@@ -1,0 +1,21 @@
+<resources>
+    <string name="monapp">converter</string>
+    <string name="button0">Distance</string>
+    <string name="buttton2">Weight</string>
+    <string name="button3">Temperature</string>
+    <string name="input1">input km</string>
+    <string name="output1">output m</string>
+    <string name="button1">convert</string>
+    <string name="app_name">CONVERTER</string>
+    <string name="name_distane">convert kilometers to miles</string>
+
+    <string name="inputKg">Input Kg</string>
+    <string name="output_g">output pounds</string>
+    <string name="name_weight">convert kilograms to pounds</string>
+
+    <string name="inputC">Input °C</string>
+    <string name="output_F">output °F</string>
+    <string name="name_temperature">convert celsus to fahrenheit</string>
+
+
+</resources>
